@@ -1,0 +1,11 @@
+M:\C#学习资料\学习文件\出租车轨迹数据计算\出租车轨迹数据计算\bin\Debug\出租车轨迹数据计算.exe.config
+M:\C#学习资料\学习文件\出租车轨迹数据计算\出租车轨迹数据计算\bin\Debug\出租车轨迹数据计算.exe
+M:\C#学习资料\学习文件\出租车轨迹数据计算\出租车轨迹数据计算\bin\Debug\出租车轨迹数据计算.pdb
+M:\C#学习资料\学习文件\出租车轨迹数据计算\出租车轨迹数据计算\obj\Debug\出租车轨迹数据计算.csprojAssemblyReference.cache
+M:\C#学习资料\学习文件\出租车轨迹数据计算\出租车轨迹数据计算\obj\Debug\出租车轨迹数据计算.Form1.resources
+M:\C#学习资料\学习文件\出租车轨迹数据计算\出租车轨迹数据计算\obj\Debug\出租车轨迹数据计算.Properties.Resources.resources
+M:\C#学习资料\学习文件\出租车轨迹数据计算\出租车轨迹数据计算\obj\Debug\出租车轨迹数据计算.csproj.GenerateResource.cache
+M:\C#学习资料\学习文件\出租车轨迹数据计算\出租车轨迹数据计算\obj\Debug\出租车轨迹数据计算.csproj.CoreCompileInputs.cache
+M:\C#学习资料\学习文件\出租车轨迹数据计算\出租车轨迹数据计算\obj\Debug\出租车轨迹数据计算.exe
+M:\C#学习资料\学习文件\出租车轨迹数据计算\出租车轨迹数据计算\obj\Debug\出租车轨迹数据计算.pdb
+M:\C#学习资料\学习文件\出租车轨迹数据计算\出租车轨迹数据计算\obj\Debug\出租车轨迹数据计算.Form2.resources
